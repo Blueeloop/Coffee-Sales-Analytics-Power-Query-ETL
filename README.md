@@ -120,3 +120,6 @@ The original `store_location` column was removed after the trimmed version had b
 #### 7. Renamed Cleaned Column
 
 The cleaned `Trim` column was renamed to `store_location`, resulting in a cleaned and standardized location field while maintaining the original column name used by the dataset.
+
+
+Updated directly on GitHub for Git practice.
