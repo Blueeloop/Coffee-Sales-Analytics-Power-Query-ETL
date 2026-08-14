@@ -29,47 +29,6 @@ The dataset contains 149,116 coffee shop transaction records across 11 columns. 
 
 The dataset was obtained from [maven analytics](https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip).
 
-## Data Preparation & Power Query ETL
-
-Power Query was used to transform the raw coffee sales dataset into a clean and analysis-ready dataset before building the dashboard.
-
-The data preparation process followed an ETL workflow consisting of data type correction, duplicate removal, filtering, text cleaning, column organization, and column renaming.
-
-### Power Query Applied Steps
-
-The transformation workflow consisted of the following steps:
-
-1. **Source**
-   
-   Imported the raw coffee sales dataset into Power Query.
-
-2. **Changed Type**
-   
-   Corrected the data types of the dataset columns to ensure that dates, times, quantities, identifiers, and prices could be used correctly during analysis.
-
-3. **Removed Duplicate**
-   
-   Removed duplicate transaction records to help maintain the integrity of the dataset.
-
-4. **Filtered Rows**
-   
-   Applied filters to remove records that did not meet the requirements of the analysis.
-
-5. **Inserted Trimmed Text**
-   
-   Applied text trimming to remove unnecessary leading and trailing spaces from relevant text fields and improve consistency.
-
-6. **Reordered Columns**
-   
-   Rearranged the columns into a more logical order to improve the structure and readability of the transformed dataset.
-
-7. **Removed Columns**
-   
-   Removed fields that were not required for the analysis and dashboard.
-
-8. **Renamed Columns**
-   
-   Renamed selected columns to make the dataset easier to understand and work with during analysis.
 
 ## Data Preparation & Power Query ETL
 
