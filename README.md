@@ -85,7 +85,7 @@ The cleaned `Trim` column was renamed to `store_location`, resulting in a cleane
 
 The cleaned and transformed dataset was used to build an interactive Excel dashboard to analyze coffee shop sales performance across product categories, store locations, and time periods.
 
-![alt text](image.png)
+![Coffee Sale Dashboard](images/Dashboard.png)
 
 ### Key Insights
 
