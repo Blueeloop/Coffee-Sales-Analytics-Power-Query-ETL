@@ -1,6 +1,16 @@
 # Coffee Sales Analytics — Power Query ETL & Excel Dashboard
 
 
+## Business Questions
+
+This analysis was designed to answer the following business questions:
+
+- Which product categories generate the most revenue?
+- Which store locations have the highest footfall?
+- Which days of the week generate the most sales?
+- Which products contribute most to overall sales performance?
+- How does sales performance vary across different time periods?
+
 ## Project Overview
 
 This project focuses on analyzing coffee sales data using Microsoft Excel and Power Query. The project follows an ETL (Extract, Transform, Load) workflow to transform raw sales data into an analysis-ready dataset and an interactive Excel dashboard.
@@ -104,12 +114,12 @@ The cleaned and transformed dataset was used to build an interactive Excel dashb
 
 - Data Cleaning & Transformation
 - Power Query ETL
-- Data Validation
+- Data Analysis
 - PivotTables
-- Excel Dashboard Development
 - Data Visualization
+- Excel Dashboard Development
+- Business Intelligence
 - Business Insights & Reporting
-
 ## Project Workflow
 
 The project followed the following workflow:
