@@ -81,3 +81,31 @@ The original `store_location` column was removed after the trimmed version had b
 The cleaned `Trim` column was renamed to `store_location`, resulting in a cleaned and standardized location field while maintaining the original column name used by the dataset.
 
 
+## Dashboard Preview
+
+The cleaned and transformed dataset was used to build an interactive Excel dashboard to analyze coffee shop sales performance across product categories, store locations, and time periods.
+
+![alt text](image.png)
+
+### Key Insights
+
+* ☕ **Coffee** generates the highest category revenue.
+* 🏪 **Hell's Kitchen** records the highest store footfall.
+* 📅 **Thursday** records the highest sales.
+* 📈 The dashboard provides an overview of revenue, transactions, product performance, and store-level activity.
+
+## Tools Used
+
+* **Microsoft Excel** — Data analysis, PivotTables, calculations, and dashboard development
+* **Power Query** — Data cleaning and transformation
+* **Excel Charts & Visualizations** — Interactive dashboard reporting
+
+## Project Workflow
+
+The project followed the following workflow:
+
+**Raw Data → Power Query ETL → Cleaned Dataset → Analysis → Dashboard → Business Insights**
+
+## Final Deliverable
+
+The final deliverable is an interactive Excel dashboard that transforms the raw coffee shop transaction data into a visual summary of sales performance and key business insights.
