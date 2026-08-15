@@ -100,6 +100,16 @@ The cleaned and transformed dataset was used to build an interactive Excel dashb
 * **Power Query** — Data cleaning and transformation
 * **Excel Charts & Visualizations** — Interactive dashboard reporting
 
+## Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Power Query ETL
+- Data Validation
+- PivotTables
+- Excel Dashboard Development
+- Data Visualization
+- Business Insights & Reporting
+
 ## Project Workflow
 
 The project followed the following workflow:
